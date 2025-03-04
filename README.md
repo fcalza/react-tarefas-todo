@@ -22,13 +22,6 @@ Este é um aplicativo de gerenciamento de tarefas (todo) construído com React. 
 - Fetch API para comunicação com o backend
 - json-server para simular uma API REST
 
-## Instalação
-
-
-2. Em outro terminal
-    ```bash
-   
-
 ## Available Scripts
 
 In the project directory, you can run:
